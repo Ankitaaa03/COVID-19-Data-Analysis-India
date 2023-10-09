@@ -46,26 +46,26 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 
 
-### 1. Import the data from API using requests library.
+1. Import the data from API using requests library.
 
     
-### 2. The imported data was in json format hence we used json library to read the data.
+2. The imported data was in json format hence we used json library to read the data.
 
 <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/a6f0ada1-1c0a-4934-a47d-9ba84e6d12c3" width="1000" >
     
-### 3. We looked for null values and replaced it with zero, looked for duplicates.
+3. We looked for null values and replaced it with zero, looked for duplicates.
     
-### 4. Stated analysing the data by using pandas function like groupby, sort_values etc.
+4. Stated analysing the data by using pandas function like groupby, sort_values etc.
     
-### 5. Used nested 'for' loops to extract the relevant data from the nested dictionary.
+5. Used nested 'for' loops to extract the relevant data from the nested dictionary.
 
 <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/6331248c-c475-4797-a680-89fd8465a082" width="1000" >
     
-### 6. Extracted the individual state data from dataframe in csv format and imported data into MySQL.
+6. Extracted the individual state data from dataframe in csv format and imported data into MySQL.
     
-### 7. Aggregated the distribution by month and week wise for each state.
+7. Aggregated the distribution by month and week wise for each state.
     
-### 8. Imported the aggregated data into Excel for further Analysis.
+8. Imported the aggregated data into Excel for further Analysis.
     
 
 
