@@ -17,7 +17,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 <br>
 
-<p align="center"><img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/178dce48-6221-49b3-b2a2-d553c8f9bcdd" width="400" ></p>
+<p align="center"><img src="https://github.com/Ankitaaa03/COVID-19-Data-Analysis-India/assets/133629631/2062e086-46bb-4e1b-b294-f4cbce772f3f" width="400" ></p>
 
 ##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/8e952995-c32d-4703-a9dd-92d1914cc6d9"  width="48" height="48"> Analysis
    
@@ -27,11 +27,11 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 ### o	October month had the highest number of total confirmed cases.
 
-<img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/de470e60-0c1a-48d3-9424-96354b0e298c" width="700" >
+<img src="https://github.com/Ankitaaa03/COVID-19-Data-Analysis-India/assets/133629631/0ba68321-8d24-4483-8336-badb6f21a9fc" width="700" >
 
 ### o	Highest Vaccination rate observed in in Sikkim.
 
-<img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/2930d151-66db-4238-b596-1ace0541ff6b" width="700" >
+<img src="https://github.com/Ankitaaa03/COVID-19-Data-Analysis-India/assets/133629631/ea7f64b8-123e-478c-b844-771eca397dd9" width="700" >
 
 ### o	Lowest Vaccination rate is observed in Uttar Pradesh.
     
@@ -51,16 +51,16 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
     
 2. The imported data was in json format hence we used json library to read the data.
 
-<img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/a6f0ada1-1c0a-4934-a47d-9ba84e6d12c3" width="1000" >
-    
+<img src="https://github.com/Ankitaaa03/COVID-19-Data-Analysis-India/assets/133629631/cbf5678d-3e45-4923-8838-391626b537f3" width="1000" >
+   
 3. We looked for null values and replaced it with zero, looked for duplicates.
     
 4. Stated analysing the data by using pandas function like groupby, sort_values etc.
     
 5. Used nested 'for' loops to extract the relevant data from the nested dictionary.
 
-<img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/6331248c-c475-4797-a680-89fd8465a082" width="1000" >
-    
+<img src="https://github.com/Ankitaaa03/COVID-19-Data-Analysis-India/assets/133629631/6bf6df93-9422-444e-850b-f463bc1325b5" width="1000" >
+
 6. Extracted the individual state data from dataframe in csv format and imported data into MySQL.
     
 7. Aggregated the distribution by month and week wise for each state.
@@ -70,8 +70,8 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 
 ##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082" width="48" height="48"> Dashboard
- <p align="center"><img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/ff89a006-3d2c-4eb8-a177-ed643541f371" width="1000" ></p>
- 
+ <p align="center"><img src="https://github.com/Ankitaaa03/COVID-19-Data-Analysis-India/assets/133629631/60481f88-a09c-4c58-8aed-0016e85892e5" width="1000" ></p>
+
 ## Challenges and Learnings
 
 - **JSON Data Extraction:** Navigated nested JSON structures to extract relevant COVID-19 information.
