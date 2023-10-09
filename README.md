@@ -23,7 +23,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
    
 ### o	Highest number of confirmed and deceased cases were seen in Maharashtra.
 
-<img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/76644cc3-ed14-4172-8957-3c0f2d7b79a4" width="600" >
+![img](https://github.com/Ankitaaa03/COVID-19-Data-Analysis-India/assets/133629631/02603f6d-3ddd-4397-94d2-45e304a78378)
 
 ### o	October month had the highest number of total confirmed cases.
 
